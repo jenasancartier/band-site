@@ -1,0 +1,20 @@
+body {
+  width: 850px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  padding: 20px;
+}
+.sidebar {
+  float: left;
+  background-color: lightblue;
+  padding: 20px 20px 50% 20px;
+  margin-right: 20px;
+}
+
+img {
+  float: right;
+}
