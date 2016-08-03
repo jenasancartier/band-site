@@ -1,5 +1,5 @@
 body {
-  width: 850px;
+  width:1000px;
   margin: 20px auto;
   text-align: center;
 }
@@ -13,8 +13,10 @@ p {
   background-color: lightblue;
   padding: 20px 20px 50% 20px;
   margin-right: 20px;
+  border: 10px solid red;
 }
 
 img {
   float: right;
+  padding: 20px;
 }
